@@ -1,0 +1,39 @@
+#image{
+  width:100%;
+  height:auto;
+max-width:100%;
+display: block;
+
+}
+
+#img-caption{
+text-align:center;
+}
+
+.heading{
+  text-align: center;
+  color:black;
+  font-size: 33px;
+font-family:Helvetica;
+padding:5px;
+}
+
+#unordered-list{
+background-color:#d1d0cd;
+font-size:20px;
+}
+
+#main{
+background-color:#f0efeb;
+}
+
+#bike-quote-title{
+font-size:20px;
+padding:10px;
+}
+
+#tribute-info{
+font-style:times;
+padding:5px;
+}
+
